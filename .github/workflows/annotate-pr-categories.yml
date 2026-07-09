@@ -22,12 +22,15 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Save HEAD version
-        run: cp blogs.json blogs-head.json
+        run: cp blogs.json /tmp/blogs-head.json
 
       - name: Checkout base branch
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event.pull_request.base.sha }}
+
+      - name: Restore HEAD version
+        run: cp /tmp/blogs-head.json blogs-head.json
 
       - name: Analyze Changes
         id: analyze
