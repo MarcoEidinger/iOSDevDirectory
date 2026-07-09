@@ -27,6 +27,12 @@
             "feed_url": "https://developer.apple.com/news/rss/news.rss"
           },
           {
+            "title": "2Developer News2",
+            "author": "2Apple2",
+            "site_url": "https://developer.apple.com/news2/",
+            "feed_url": "https://developer.apple.com/news2/rss/news.rss"
+          },          
+          {
             "title": "Developer Releases",
             "author": "Apple",
             "site_url": "https://developer.apple.com/news/releases/",
