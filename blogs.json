@@ -524,7 +524,7 @@
             "title": "Arnaud Joubay's Blog",
             "author": "Arnaud Joubay",
             "site_url": "https://sowenjub.me/",
-            "feed_url": "https://sowenjub.me/writes/rss/",
+            "feed_url": "https://sowenjub.me/writes/rss.xml",
             "mastodon_url": "https://mastodon.social/@sowenjub",
             "x_url": "https://x.com/sowenjub"
           },
@@ -875,8 +875,8 @@
           {
             "title": "Cephalopod Studio",
             "author": "Matthew Waller",
-            "site_url": "https://www.cephalopod.studio/blog",
-            "feed_url": "https://www.cephalopod.studio/blog?format=rss",
+            "site_url": "https://www.cephalopod.studio/blog/",
+            "feed_url": "https://www.cephalopod.studio/blog/?format=rss",
             "x_url": "https://x.com/wattmaller1"
           },
           {
@@ -2058,7 +2058,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog/",
+            "site_url": "https://dopebase.com/blog",
             "feed_url": "https://iosapptemplates.com/blog/rss.xml",
             "x_url": "https://x.com/0xflorian"
           },
@@ -3363,7 +3363,7 @@
             "title": "Otávio's blog",
             "author": "Otávio C.",
             "site_url": "https://otavio.cc",
-            "feed_url": "https://otavio.cc/posts_feed",
+            "feed_url": "https://otavio.cc/posts_feed/",
             "mastodon_url": "https://social.lol/@otaviocc",
             "microblog_url": "https://micro.blog/otaviocc"
           },
@@ -4795,8 +4795,8 @@
           {
             "title": "YoSwift",
             "author": "Manoj Karki",
-            "site_url": "https://yoswift.dev",
-            "feed_url": "https://yoswift.dev/feed.rss",
+            "site_url": "https://www.sonnysideestatesales.com/",
+            "feed_url": "https://www.sonnysideestatesales.com/",
             "x_url": "https://x.com/mskarki"
           },
           {
@@ -5157,7 +5157,7 @@
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
             "site_url": "https://bitrig.com/blog",
-            "feed_url": "https://bitrig.com/api/rss",
+            "feed_url": "https://app.bitrig.com/api/rss",
             "x_url": "https://x.com/bitrigapp"
           },
           {
@@ -5517,7 +5517,7 @@
           {
             "title": "Requestly Blog",
             "author": "Requestly Team",
-            "site_url": "https://requestly.com/blog/category/mobile-development/ios-development/",
+            "site_url": "https://requestly.com/blog/category/mobile-development/",
             "feed_url": "https://requestly.com/blog/category/mobile-development/ios-development/feed/",
             "x_url": "https://x.com/requestlyIO"
           },
@@ -5531,7 +5531,7 @@
           {
             "title": "RevenueCat Blog",
             "author": "Jacob Eiting",
-            "site_url": "https://www.revenuecat.com/blog/",
+            "site_url": "https://www.revenuecat.com/blog",
             "feed_url": "https://www.revenuecat.com/blog/rss.xml",
             "x_url": "https://x.com/revenuecat"
           },
